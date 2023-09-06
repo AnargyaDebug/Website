@@ -1,0 +1,30 @@
+body {
+    background-color: #ccc;
+}
+
+#container {
+    background-color: #afdffd;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+}
+
+#top {
+    font-size: larger;
+    color: #348f2f;
+    text-align: center;
+}
+
+#middle, #bottom {
+    padding: 10px 20px;
+}
+
+h1, h2 {
+    font-size: xx-large;
+    color: #d0ffb0;
+}
+
+p {
+    color: #c26464;
+}
